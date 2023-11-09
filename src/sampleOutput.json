@@ -1,0 +1,85 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+      
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aliza Chasan",
+            "title": "Tyson recalls nearly 30,000 pounds of dino chicken nuggets - CBS News",
+            "description": "Dino nuggets from Tyson foods may have metal pieces in the chicken, according to a recall alert.",
+            "url": "https://www.cbsnews.com/news/dino-chicken-nuggets-recall-tyson-possible-contamination/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/05/4e603ab5-0b39-4819-a635-6859369d5494/thumbnail/1200x630/7129e1a2ae63a52384ddbe5a0c6d3293/screenshot-2023-11-05-at-2-03-54-pm.png?v=c81a9d6c51e6280f2f4f876031d7d9bc",
+            "publishedAt": "2023-11-06T05:47:00Z",
+            "content": "Nearly 30,000 pounds of dinosaur-shaped chicken nuggets are being recalled because they may be contaminated with metal pieces, the United States Department of Agriculture said Saturday. \r\nThe recall … [+1374 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Wayne Cole",
+            "title": "Asia shares cheered by hopes of early rate cuts - Reuters",
+            "description": "Asian shares rallied for a fourth straight session on Monday after markets priced in earlier rate cuts in the United States and Europe, bullish wagers that will be tested by a swarm of central bank speakers this week.",
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2023-11-06/",
+            "urlToImage": "https://www.reuters.com/resizer/PzzDrNcynjBwC0VH9dkyDfImJfk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NCHVEVWNNVPLVHULYVRKT3SYNA.jpg",
+            "publishedAt": "2023-11-06T05:41:13Z",
+            "content": "SYDNEY, Nov 6 (Reuters) - Asian shares rallied for a fourth straight session on Monday after markets priced in earlier rate cuts in the United States and Europe, bullish wagers that will be tested by… [+3747 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Deidre McPhillips",
+            "title": "Emergency room visits for firearm injuries among children doubled during the pandemic - CNN",
+            "description": "America’s gun epidemic has become deadlier than ever for children since the start of the Covid-19 pandemic, and firearm-related injuries are driving children to emergency rooms at significantly higher rates than before.",
+            "url": "https://www.cnn.com/2023/11/06/health/firearm-injuries-children-emergency-room-pandemic/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231103205525-02-handgun-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-11-06T05:02:00Z",
+            "content": "Americas gun epidemic has become deadlier than ever for children since the start of the Covid-19 pandemic, and firearm-related injuries are driving children to emergency rooms at significantly higher… [+3535 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Jackie Strause",
+            "title": "Taylor Swift Breaks Her Own Record With ‘1989 (Taylor’s Version)’ - Hollywood Reporter",
+            "description": "The album has now surpassed the 2014 first-week sales, giving it a bigger debut than the original.",
+            "url": "https://www.hollywoodreporter.com/news/music-news/taylor-swift-1989-taylor-version-records-1235637476/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/11/taylor_swift.jpg?w=1024",
+            "publishedAt": "2023-11-06T03:12:02Z",
+            "content": "Taylor Swift has done it again.\r\nHer new album 1989 (Taylor’s Version), a rerecording of her 1989 album, is now the top-selling album in America for 2023 in under one week. The album has topped the B… [+1642 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
