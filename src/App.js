@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import News from "./components/News";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import LoadingBar from "react-top-loading-bar";
-
+import About from "./components/About";
 export class App extends Component {
   apikey = process.env.API_KEY;
   state = {
@@ -23,6 +23,7 @@ export class App extends Component {
             onLoaderFinished={() => this.setProgress(0)}
           />
           <Routes>
+            <Route exact path="/About" element={<About></About>} />
             <Route
               exact
               path="/"
