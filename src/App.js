@@ -15,7 +15,7 @@ export class App extends Component {
   render() {
     return (
       <div>
-        <BrowserRouter basename="/NewsGoose">
+        <BrowserRouter>
           <Navbar></Navbar>
           <LoadingBar
             color="#f11946"
@@ -26,7 +26,7 @@ export class App extends Component {
             <Route exact path="/About" element={<About></About>} />
             <Route
               exact
-              path="/NewsGoose"
+              path="/"
               element={
                 <News
                   setProgress={this.setProgress}
