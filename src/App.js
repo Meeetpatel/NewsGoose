@@ -23,10 +23,9 @@ export class App extends Component {
             onLoaderFinished={() => this.setProgress(0)}
           />
           <Routes>
-            <Route exact path="/About" element={<About></About>} />
             <Route
               exact
-              path="/"
+              path="/NewsGoose"
               element={
                 <News
                   setProgress={this.setProgress}
@@ -115,6 +114,7 @@ export class App extends Component {
                 />
               }
             />
+            <Route exact path="/About" element={<About></About>} />
           </Routes>
         </BrowserRouter>
       </div>
