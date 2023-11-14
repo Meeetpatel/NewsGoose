@@ -24,8 +24,8 @@ export class App extends Component {
           />
           <Routes>
             <Route
-              exact
-              path="/NewsGoose"
+              index
+              path="/"
               element={
                 <News
                   setProgress={this.setProgress}
